@@ -8,8 +8,8 @@
     "minimal": "2.0.0.14"
   },
   "windows": {
-    "latest": "2.0.0.26",
-    "minimal": "2.0.0.25"
+    "latest": "2.0.0.27",
+    "minimal": "2.0.0.26"
   },
   "web": {
     "latest": "2.0.0.15",
